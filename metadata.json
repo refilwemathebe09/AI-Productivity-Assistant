@@ -1,0 +1,6 @@
+{
+  "name": "CostPilot AI",
+  "description": "AI-powered construction & engineering cost control and project management assistant with evidence-based intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
